@@ -3,8 +3,22 @@
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
+def speak_to_grandma(phrase)
 
-# If you shout, she can hear you (or at least she thinks so) 
+if phrase == ("I LOVE YOU GRANDMA!")
+  return "I LOVE YOU TOO PUMPKIN!"
+elsif phrase == "Hi Nana, how are you?"
+  return "HUH?! SPEAK UP, SONNY!"
+end
+end
+
+
+
+
+
+
+
+# If you shout, she can hear you (or at least she thinks so)
 # and yells back
 
 # NO, NOT SINCE 1938!
