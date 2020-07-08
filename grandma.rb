@@ -13,8 +13,6 @@ elsif phrase == "HUH?! SPEAK UP, SONNY!"
   return "Hi!"
 end
 end
-end
-end
 
 
 
